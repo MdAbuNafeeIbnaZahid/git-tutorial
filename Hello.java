@@ -4,11 +4,11 @@ public class Hello
 	{
 		System.out.println(" vs code is awesome ");
 		
-		greet("H.M. Nayeem");
+		greet("Git");
 	}
 	
 	public static void greet(String name)
 	{
-		System.out.println(" Welcome " + name);
+		System.out.println(" Bye bye " + name);
 	}
 }
