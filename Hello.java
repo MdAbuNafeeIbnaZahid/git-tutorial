@@ -16,4 +16,9 @@ public class Hello
 	{
 		return x*x;
 	}
+	
+	public static multiply(int x, int y)
+	{
+		return x*y;
+	}
 }
