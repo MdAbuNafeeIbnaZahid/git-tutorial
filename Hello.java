@@ -12,8 +12,8 @@ public class Hello
 		System.out.println(" Bye bye " + name);
 	}
 	
-	public static void sqr( int x )
+	public static void add( int x, int y )
 	{
-		return x*x;
+		return x+y;
 	}
 }
