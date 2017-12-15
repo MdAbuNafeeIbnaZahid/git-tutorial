@@ -16,4 +16,15 @@ public class Hello
 	{
 		return x+y;
 	}
+	
+	public static void multiply(int x, int y)
+	{
+		int ret = 0;
+		for (int i = 1; i <= y; i++)
+		{
+			ret = add(ret, x);
+		}
+		
+		return ret;
+	}
 }
