@@ -12,6 +12,7 @@ public class Hello
 		System.out.println(" Bye bye " + name);
 	}
 	
+<<<<<<< HEAD
 	public static void add( int x, int y )
 	{
 		return x+y;
@@ -34,4 +35,5 @@ public class Hello
 	}
 	
 	1 in branchA
+
 }
