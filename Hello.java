@@ -33,6 +33,5 @@ public class Hello
 		return x*y;
 	}
 	
-	1 in master
-	2 in master
+	1 in branchA
 }
